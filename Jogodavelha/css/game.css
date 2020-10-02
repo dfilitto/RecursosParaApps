@@ -1,0 +1,28 @@
+.game {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  
+  ol, ul {
+    padding-left: 30px;
+  }
+
+  #imgjogo{
+    height: 100px;
+    width: 100px;
+  }
+
+  .game h1{
+    color: white;
+  }
+
+  .historyButton{
+    width: 270px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bolder;
+
+  }
